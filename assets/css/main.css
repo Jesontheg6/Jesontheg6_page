@@ -30,6 +30,12 @@
 		list-style: none;
 	}
 
+	.jumbotron {
+    background-color:rgba(1,1,1,0.5);;!important; 
+    
+    }
+
+
 	blockquote, q {
 		quotes: none;
 	}
